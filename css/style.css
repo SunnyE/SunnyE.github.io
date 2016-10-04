@@ -1623,3 +1623,7 @@ footer.site-footer a:hover {
     width: 25%;
   }
 }
+
+#infoText {
+  font-size: 25px;
+}
