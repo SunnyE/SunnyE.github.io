@@ -17,7 +17,7 @@ p {
   margin-bottom: 26px;
 }
 a {
-  color: #4ecdc4;
+  color: #1B75BC;
   text-decoration: none !important;
   -webkit-transition: color 0.3s;
           transition: color 0.3s;
@@ -44,7 +44,7 @@ h6 {
   box-shadow: none !important;
 }
 .form-control:focus {
-  border-color: #4ecdc4 !important;
+  border-color: #1B75BC !important;
 }
 .mb250 {
   margin-bottom: 250px !important;
@@ -236,8 +236,8 @@ h6 {
 }
 .btn-default:hover {
   color: #fff;
-  background-color: #4ecdc4;
-  border-color: #4ecdc4;
+  background-color: #1B75BC;
+  border-color: #1B75BC;
 }
 .btn-default-o {
   color: #f2f2f2;
@@ -245,19 +245,19 @@ h6 {
   background-color: transparent;
 }
 .btn-default-o:hover {
-  color: #4ecdc4;
+  color: #1B75BC;
   background-color: #fff;
   border-color: #fff;
 }
 .btn-main-o {
-  color: #4ecdc4;
+  color: #1B75BC;
   border-color: #4ecdc4;
   background-color: transparent;
 }
 .btn-main-o:hover {
   color: #fff;
-  background-color: #4ecdc4;
-  border-color: #4ecdc4;
+  background-color: #1B75BC;
+  border-color: #1B75BC;
 }
 .btn-dark-o {
   color: #4c4c4c;
@@ -283,14 +283,14 @@ h6 {
 }
 .btn-main {
   color: #fff;
-  background-color: #4ecdc4;
-  border-color: #4ecdc4;
+  background-color: #1B75BC;
+  border-color: #1B75BC;
 }
 .btn-main:hover,
 .btn-main:focus,
 .btn-main:active {
-  background-color: #33b5ac;
-  border-color: #33b5ac;
+  background-color: #1B75BC;
+  border-color: #1B75BC;
   color: #fff;
 }
 .btn-link {
@@ -324,7 +324,7 @@ h6 {
 .section-title p {
   font-family: "Oswald";
   text-transform: uppercase;
-  color: #4ecdc4;
+  color: #1B75BC;
   font-size: 38px;
   line-height: 58px;
   font-weight: 700;
@@ -352,7 +352,7 @@ h6 {
   display: block;
   width: 50px;
   height: 2px;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   margin-top: 5px;
 }
 .tooltip.top .tooltip-arrow {
@@ -370,7 +370,7 @@ h6 {
   opacity: 1 !important;
 }
 .nicescroll-rails > div {
-  background: #4ecdc4 !important;
+  background: #1B75BC !important;
 }
 /* ---------------------------------------------- /*
  * Mouse animate icon
@@ -516,7 +516,7 @@ h6 {
   margin-top: 80px;
 }
 .st-highlight {
-  color: #4ecdc4;
+  color: #1B75BC;
 }
 .navbar-default {
   background-color: transparent;
@@ -583,12 +583,12 @@ h6 {
 .navbar-default .navbar-nav > li.active a:hover,
 .navbar-default .navbar-nav > li.active a:focus,
 .navbar-default .navbar-nav > li.active a:active {
-  color: #4ecdc4;
+  color: #1B75BC;
   background-color: rgba(0, 0, 0, 0);
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #4ecdc4;
+  color: #1B75BC;
 }
 .page-header {
   background-image: url(../images/hero-img14.png);
@@ -611,7 +611,7 @@ h6 {
 }
 .page-breadcrumb {
   background-color: #f7f7f7;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   color: #fff;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.01);
   border-botom: 1px solid #f2f2f2;
@@ -885,7 +885,7 @@ h6 {
   display: block;
   width: 35px;
   height: 2px;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   margin: 0 auto;
 }
 .service {
@@ -900,7 +900,7 @@ h6 {
   font-size: 42px;
   color: #fff;
   margin: 0 auto 20px;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   border-radius: 50%;
   position: relative;
   -webkit-transform: rotate(0) scale(1);
@@ -920,8 +920,8 @@ h6 {
   margin-bottom: 10px;
 }
 .st-feature:hover .st-feature-icon {
-  color: #4ecdc4;
-  border-color: #4ecdc4;
+  color: #1B75BC;
+  border-color: #1B75BC;
   background-color: transparent;
   -webkit-transform: rotate(360deg) scale(1.8);
       -ms-transform: rotate(360deg) scale(1.8);
@@ -941,7 +941,7 @@ ul.styled-list li:before {
   display: inline-block;
   margin-left: -1.5em;
   width: 1.5em;
-  color: #4ecdc4;
+  color: #1B75BC;
 }
 ul.styled-list.list-caret li:before {
   content: '\f0da';
@@ -982,7 +982,7 @@ ul.styled-list.list-star li:before {
   display: block;
   width: 80px;
   height: 1px;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   margin: 15px auto 20px;
 }
 .c2a p {
@@ -1153,7 +1153,7 @@ ul.styled-list.list-star li:before {
   width: 40px;
   height: 40px;
   border-radius: 40px;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   position: absolute;
   bottom: 5%;
   left: 5%;
@@ -1273,7 +1273,7 @@ ul.styled-list.list-star li:before {
   font-weight: 300;
   text-transform: uppercase;
   text-align: center;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   color: #fff;
   position: absolute;
   top: 22px;
@@ -1299,7 +1299,7 @@ ul.styled-list.list-star li:before {
 }
 .call-us {
   padding: 50px 0;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   text-align: center;
 }
 .call-us h3 {
@@ -1334,7 +1334,7 @@ ul.styled-list.list-star li:before {
   color: #4c4c4c;
 }
 .blog-post .post-meta a:hover {
-  color: #4ecdc4;
+  color: #1B75BC;
 }
 .blog-post .post-meta strong {
   color: #4c4c4c;
@@ -1405,7 +1405,7 @@ ul.styled-list.list-star li:before {
   color: #4c4c4c;
 }
 .widget ul li .recent-post .post-meta a:hover {
-  color: #4ecdc4;
+  color: #1B75BC;
 }
 .widget ul li .recent-post a {
   display: inline-block;
@@ -1422,7 +1422,7 @@ ul.styled-list.list-star li:before {
   vertical-align: middle;
   margin-top: 5px;
   text-indent: 0;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   -webkit-transition: background-color 0.3s;
           transition: background-color 0.3s;
 }
@@ -1449,8 +1449,8 @@ ul.styled-list.list-star li:before {
           transition: color 0.3s, background-color 0.3s, border-color 0.3s;
 }
 .widget .tagcloud a:hover {
-  border-color: #4ecdc4;
-  background-color: #4ecdc4;
+  border-color: #1B75BC;
+  background-color: #1B75BC;
   color: #fff;
 }
 .subscribe {
@@ -1509,7 +1509,7 @@ a.social {
   font-family: "Oswald";
   letter-spacing: 1px;
   display: inline-block;
-  background-color: #4ecdc4;
+  background-color: #1B75BC;
   color: #fff;
   padding: 8px 20px 8px 65px;
   border-radius: 50px;
@@ -1520,7 +1520,7 @@ a.social {
 }
 a.social i {
   display: block;
-  background-color: #31ada4;
+  background-color: #1B75BC;
   width: 50px;
   height: 42px;
   line-height: 42px;
@@ -1534,7 +1534,7 @@ a.social i {
           transition: text-indent 0.3s;
 }
 a.social:hover {
-  background-color: #31ada4;
+  background-color: #1B75BC;
   text-indent: -10px;
   padding: 8px 30px 8px 65px;
 }
@@ -1596,7 +1596,7 @@ footer.site-footer a {
   color: #808080;
 }
 footer.site-footer a:hover {
-  color: #4ecdc4;
+  color: #1B75BC;
 }
 @media (min-width: 768px) {
   .navbar-nav > li > a {
