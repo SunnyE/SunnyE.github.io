@@ -481,7 +481,11 @@ h6 {
   margin-bottom: 15px;
   margin-top: 5px;
   padding: 20px 10px;
+  text-shadow: 1px, 1px, 1px, black
+
 }
+
+
 .home .hero-txt .hero-work {
   font-family: "Oswald";
   font-weight: 300;
@@ -1505,6 +1509,9 @@ ul.styled-list.list-star li:before {
   border-radius: 30px 2px 2px 30px !important;
   padding: 14px 20px 14px 30px !important;
 }
+
+
+
 a.social {
   font-family: "Oswald";
   letter-spacing: 1px;
@@ -1626,4 +1633,8 @@ footer.site-footer a:hover {
 
 #infoText {
   font-size: 25px;
+}
+
+#shadowtext {
+  text-shadow: 2px 2px 2px black;
 }
